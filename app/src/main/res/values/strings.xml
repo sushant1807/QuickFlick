@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuickFlick</string>
+    <string name="lbl_search_flickr">Search Flickr</string>
+    <string name="lbl_details_view">Details View</string>
+    <string name="check_out_this_image_title_author_published">Check out this image:\n\nTitle: %1$s\nAuthor: %2$s\nPublished: %3$s\n\nUrl: %4$s</string>
+    <string name="lbl_share">Share</string>
+    <string name="lbl_back">Back</string>
+    <string name="lbl_published_on">Published on %1$s</string>
+</resources>
